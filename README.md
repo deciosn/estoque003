@@ -1,5 +1,5 @@
 # estoque003
-mk dir projeto
+# mk dir projeto
 cd projeto
 git clone https://github.com/deciosn/estoque003.git
 sudo apt install python3-pip -y
