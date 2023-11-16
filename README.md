@@ -1,5 +1,6 @@
-# estoque003
-# mk dir projeto
+# estoque003 
+```bash
+ mk dir projeto
 cd projeto
 git clone https://github.com/deciosn/estoque003.git
 sudo apt install python3-pip -y
@@ -10,3 +11,4 @@ django-admin startapp app_cad_usuarios
 python3 manage.py makemigrations
 python3 manage.py migrate
 python3 manage.py runserver
+```
