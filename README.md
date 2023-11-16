@@ -1,4 +1,4 @@
-# estoque003 
+# Sistema de Cadastro de Mercadorias
 ```bash
  mk dir projeto
 cd projeto
